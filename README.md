@@ -1,4 +1,4 @@
-## Hi, I'm Santosh Timilsina, PhD 👋
+## Hi, I'm Santosh! 👋
 
 I am a scientist bridging the gap between bioinformatics and wet lab discovery.
 Currently utilizing single-cell and bulk RNA-seq to uncover immune-suppressive mechanisms in oncology.
