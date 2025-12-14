@@ -1,9 +1,17 @@
-- 👋 Hi, I’m Santosh
-- 👀 I’m interested in becoming proficient in bioinformatics and data science...
-- 🌱 I’m currently learning R, Python, statistics, and some machine learning ...
-- 💞️ I’m looking to collaborate on bioinformatics projects ...
-- 📫 How to reach me: stimilsina12@gmail.com  ...
-
+      # Hi, I'm Santosh Timilsina, PhD 👋
+      ### Cancer Biologist | Translational Scientist | Genomics & Immunology
+      
+      I am a scientist bridging the gap between wet-lab validation and computational discovery.
+      Currently utilizing single-cell and bulk RNA-seq to uncover immune-suppressive mechanisms in oncology.
+      
+      - 🧬 **Core Skills:** Molecular Biology (CRISPR, Flow Cytometry, In vitro and in vivo biology) + Data Science (R, Python).
+      - 📄 **Key Publication:** [https://www.nature.com/articles/s41467-025-59186-3]
+      
+      ### 🛠 Tools & Technologies
+      ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
+      ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+      ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+      ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
 <!---
 stimilsina24/stimilsina24 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
