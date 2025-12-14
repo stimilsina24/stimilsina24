@@ -1,6 +1,4 @@
 ## Hi, I'm Santosh Timilsina, PhD 👋
-### Cancer Biologist | Translational Scientist | Genomics & Immunology
-
 
 I am a scientist bridging the gap between wet-lab validation and computational discovery.
 Currently utilizing single-cell and bulk RNA-seq to uncover immune-suppressive mechanisms in oncology.
