@@ -4,7 +4,7 @@ I am a scientist bridging the gap between bioinformatics and wet lab discovery.
 Currently utilizing single-cell and bulk RNA-seq to uncover immune-suppressive mechanisms in oncology.
 
 
-🧬 **Core Skills:** Molecular Biology (CRISPR, Flow Cytometry, In vitro and in vivo biology) + Data Science (R, Python).
+🧬 **Core Skills:** Molecular Biology (CRISPR, Flow Cytometry, In vitro and in vivo cancer biology, Immunology) + Data Science (R, Python).
 
 📄 **Key Publication:** [https://www.nature.com/articles/s41467-025-59186-3]
       
